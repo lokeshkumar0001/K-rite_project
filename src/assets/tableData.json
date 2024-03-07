@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "brand": {
+        "logo": "https://logowik.com/content/uploads/images/shopify-logo1453.png",
+        "name": "Shopify"
+      },
+      "description": "This is description and I have to wrap this",
+      "members": [
+        "https://randomuser.me/api/portraits/men/1.jpg",
+        "https://randomuser.me/api/portraits/women/2.jpg",
+        "https://randomuser.me/api/portraits/men/3.jpg"
+      ],
+      "category": {
+        "name": "Automation",
+        "color": "#e4cbff",
+        "border": "1px solid #d6b3ff",
+        "textColor": "#812fd8"
+      },
+      "tags": ["#DigitalTransformation"],
+      "nextMeeting": {
+        "bgColor": "#f9f5fc",
+        "borderColor": "#e1d9f5",
+        "textColor": "#5f3d7a",
+        "time": "In 30 minutes"
+      },
+      "message": 2
+    },
+    {
+      "id": 2,
+      "brand": {
+        "logo": "https://logowik.com/content/uploads/images/companyB-logo.png",
+        "name": "Company B"
+      },
+      "description": "Another description for Company B",
+      "members": [
+        "https://randomuser.me/api/portraits/women/4.jpg",
+        "https://randomuser.me/api/portraits/men/5.jpg"
+      ],
+      "category": {
+        "name": "Development",
+        "color": "#c9edc9",
+        "border": "1px solid #a3d9a3",
+        "textColor": "#1fc01f"
+      },
+      "tags": ["#Tech", "#Innovation"],
+      "nextMeeting": {
+        "bgColor": "#edf8ed",
+        "borderColor": "#c1eac1",
+        "textColor": "#1f8c1f",
+        "time": "Tomorrow"
+      },
+      "message": 0
+    },
+    {
+      "id": 3,
+      "brand": {
+        "logo": "https://logowik.com/content/uploads/images/brandC-logo.png",
+        "name": "Brand C"
+      },
+      "description": "Description for Brand C",
+      "members": ["https://randomuser.me/api/portraits/men/6.jpg"],
+      "category": {
+        "name": "Marketing",
+        "color": "#f2e1c3",
+        "border": "1px solid #ffca9a",
+        "textColor": "#8B4C00"
+      },
+      "tags": ["#Advertising"],
+      "nextMeeting": {
+        "bgColor": "#f8f1e8",
+        "borderColor": "#f3e0c0",
+        "textColor": "#8a6933",
+        "time": "Next week"
+      },
+      "message": 3
+    },
+    {
+      "id": 4,
+      "brand": {
+        "logo": "https://logowik.com/content/uploads/images/productX-logo.png",
+        "name": "Product X"
+      },
+      "description": "Details about Product X",
+      "members": [
+        "https://randomuser.me/api/portraits/men/7.jpg",
+        "https://randomuser.me/api/portraits/women/8.jpg"
+      ],
+      "category": {
+        "name": "Product",
+        "color": "#c9c9ed",
+        "border": "1px solid #8a8aff",
+        "textColor": "#141483"
+      },
+      "tags": ["#Launch"],
+      "nextMeeting": {
+        "bgColor": "#edeeff",
+        "borderColor": "#ccd0ff",
+        "textColor": "#4b4d7a",
+        "time": "Next month"
+      },
+      "message": 0
+    },
+    {
+      "id": 5,
+      "brand": {
+        "logo": "https://logowik.com/content/uploads/images/serviceY-logo.png",
+        "name": "Service Y"
+      },
+      "description": "Description for Service Y",
+      "members": [
+        "https://randomuser.me/api/portraits/women/9.jpg",
+        "https://randomuser.me/api/portraits/men/10.jpg",
+        "https://randomuser.me/api/portraits/men/11.jpg"
+      ],
+      "category": {
+        "name": "Service",
+        "color": "#e9bdbd",
+        "border": "1px solid #ff7d7d",
+        "textColor": "#660000"
+      },
+      "tags": ["#CustomerExperience"],
+      "nextMeeting": {
+        "bgColor": "#ffd9d9",
+        "borderColor": "#ffa5a5",
+        "textColor": "#a23d3d",
+        "time": "Next quarter"
+      },
+      "message": 10
+    }
+  ]
+  
